@@ -8,6 +8,7 @@
   </parent>
 
   <artifactId>plexus-interactivity-api</artifactId>
+  <version>1.0-alpha-8-basin-SNAPSHOT</version>
 
   <name>Plexus Default Interactivity Handler</name>
 
